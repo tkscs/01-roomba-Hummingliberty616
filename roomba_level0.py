@@ -24,8 +24,3 @@ forward(150)
 ###
  
 window.exitonclick()
-
-#There is a bug in the way GitHub creates invitations.
-#Bugs are errors in the code. 
-#GitHub took off as the main place to put code. 
-#We can access the code for interpreting Python on GitHub. 
