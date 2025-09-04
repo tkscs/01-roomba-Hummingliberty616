@@ -2,7 +2,7 @@
 # Roomba in Python
 # This file implements an algorithm for a roomba cleaning a room.
 #
-# Author: Dr. EB <------ REPLACE THIS WITH YOUR NAME!
+# Author: Winston <------ REPLACE THIS WITH YOUR NAME!
 # -----------------------------------------------------------------------------
  
 from turtle import right, left, forward, backward
@@ -13,10 +13,19 @@ window = room.draw_room(level = 0)
 
 ###
 # Start your code here
- 
+forward(150)
+left(90)
+forward(40)
+left(90)
+forward(150)
  
  
 # End your code here
 ###
  
 window.exitonclick()
+
+#There is a bug in the way GitHub creates invitations.
+#Bugs are errors in the code. 
+#GitHub took off as the main place to put code. 
+#We can access the code for interpreting Python on GitHub. 
