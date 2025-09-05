@@ -13,11 +13,23 @@ window = room.draw_room(level = 0)
 
 ###
 # Start your code here
-forward(150)
+forward(160)
 left(90)
 forward(40)
 left(90)
-forward(150)
+forward(160)
+right(90)
+forward(40)
+right(90)
+forward(160)
+left(90)
+forward(40)
+left(90)
+forward(160)
+right(90)
+forward(40)
+right(90)
+forward(160)
  
  
 # End your code here
